@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "name": "Adán",
+    "description": "Modelo de papercraft inspirada en Adán, con detalles coloridos.",
+    "price": 12000,
+    "image": "/img/adan.png"
+  },
+  {
+    "id": 2,
+    "name": "Alicia",
+    "description": "Diseño de papercraft de Alicia, ideal para coleccionistas y amantes de personajes clásicos.",
+    "price": 13500,
+    "image": "/img/alicia.png"
+  },
+  {
+    "id": 3,
+    "name": "Capitán",
+    "description": "Modelo de papercraft del Capitán, al estilo carpincho.",
+    "price": 15000,
+    "image": "/img/capi.png"
+  },
+  {
+    "id": 4,
+    "name": "Chavi",
+    "description": "Diseño de papercraft de Chavo del 8, colores divertidos.",
+    "price": 11000,
+    "image": "/img/chavi.png"
+  },
+  {
+    "id": 5,
+    "name": "Cofre",
+    "description": "Modelo de papercraft decorativo, perfecto para guardar pequeños objetos o como adorno.",
+    "price": 10000,
+    "image": "/img/cofre.png"
+  },
+  {
+    "id": 6,
+    "name": "Dedales",
+    "description": "Diseño creativo de papercraft 'Dedos', ideal para jugar.",
+    "price": 9500,
+    "image": "/img/dedos.png"
+  },
+  {
+    "id": 7,
+    "name": "Elefante",
+    "description": "Modelo de papercraft de elefante, con un estilo simpático y elegante.",
+    "price": 14000,
+    "image": "/img/elef.png"
+  },
+  {
+    "id": 8,
+    "name": "Lámpara",
+    "description": " Diseño de Papercraft de lámpara de perrito, ideal para ambientar espacios.",
+    "price": 16000,
+    "image": "/img/lampara.png"
+  },
+  {
+    "id": 9,
+    "name": "Pony",
+    "description": "Modelo de papercraft de pony, colorido y perfecto para niños y coleccionistas.",
+    "price": 12500,
+    "image": "/img/pony.png"
+  },
+  {
+    "id": 10,
+    "name": "Tigre",
+    "description": "Diseño de papercraft de tigre, con diseño llamativo.",
+    "price": 17000,
+    "image": "/img/tiger.png"
+  }
+]

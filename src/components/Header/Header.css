@@ -1,0 +1,25 @@
+header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 2rem;
+}
+
+.logo-container {
+  display: flex;
+  align-items: center;
+  gap: 10px; /* espacio entre logo y texto */
+  font-size: 2rem;
+}
+
+.logo-container img {
+  width: 120px; /* ajusta el tamaño del logo */
+  height: auto;
+}
+
+.logo-container span {
+  font-size: 2.5rem;
+  font-weight: bold; /* resalta el texto */
+  color: #fff; /* color del texto */
+  text-decoration: underline;
+}
